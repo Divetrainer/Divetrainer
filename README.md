@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Divetrainer
+- 👀 I’m interested in learning more about coding and becoming a better developer
+- 🌱 I’m currently learning JavaScript / Java
+- 💞️ I’m looking to collaborate on any science based applications
+- 📫 How to reach me on twitter @divetrainer_ or via email!
