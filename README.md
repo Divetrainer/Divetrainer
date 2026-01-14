@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divetrainer
-- 👀 I’m interested in learning more about computers and being a better steward for Tech
-- 🌱 I’m currently learning backend development and Automation
-- 💞️ I’m not currently looking to collaborate, but will be soon! 
+- 👀 I’m interested in Python, Ansible, Powershell, Micropython, C, Go, Swift
+- 🌱 I’m currently learning backend development(via boot.dev) and exploring more languages when time allows
+- 💞️ Collaboration is cool! If you think I would be helpful, let me know! 
 - 📫 Email is the best way to reach me!
 
 <p align="center">
